@@ -16,7 +16,7 @@ Head over to [HacktoberFest](https://hacktoberfest.digitalocean.com/), sign up a
 
 an example:
 `- [sreetamdas](https://github.com/sreetamdas)`
-- Send a pull request to this repository 
+- Send a pull request to this repository
 - Star this repository
 - Wait for pull-request to be merged
 - Find more Open Source repos/ projects and start contributing!
@@ -27,3 +27,4 @@ an example:
 ---
  - [sreetamdas](https://github.com/sreetamdas)
  - [bradpeck](https://github.com/bradpeck)
+ - [JamesSingleton](https://github.com/JamesSingleton)
