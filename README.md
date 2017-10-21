@@ -8,7 +8,7 @@ This repository is meant to be a stepping stone for anyone and everyone who want
 Head over to [HacktoberFest](https://hacktoberfest.digitalocean.com/), sign up and come back here and take a look at the [Contributions Guide](CONTRIBUTING.md) or do the following:
 
 
-- Clone this repositiory
+- Fork and Clone this repositiory
 - Add/ append your details into the `README.md` in the format:
 ```
 - [Name](link_to_github)
