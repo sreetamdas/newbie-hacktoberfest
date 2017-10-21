@@ -39,3 +39,4 @@ an example:
  - [Fatima](https://github.com/FatimaMubeen)
  - [emmaodia](https://github.com/emmaodia)
  - [rlandesman](https://github.com/rlandesman)
+ - [Danielandro](https://github.com/Danielandro)
