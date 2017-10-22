@@ -41,3 +41,5 @@ an example:
  - [rlandesman](https://github.com/rlandesman)
  - [jesuiscamille](https://github.com/jesuiscamille)
  - [JamesKingdom](https://github.com/JamesKingdom)
+ - [TheTota](https://github.com/TheTota)
+
