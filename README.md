@@ -53,3 +53,4 @@ an example:
  - [JSANL](https://github.com/JSANL)
  - [CodenameLeon](https://github.com/CodenameLeon)
  - [TylerPhillipsDank](https://github.com/TylerPhillipsDank)
+ - [cfroggie](https://github.com/cfroggie)
