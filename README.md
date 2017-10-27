@@ -54,6 +54,7 @@ an example:
  - [CodenameLeon](https://github.com/CodenameLeon)
  - [TylerPhillipsDank](https://github.com/TylerPhillipsDank)
  - [cfroggie](https://github.com/cfroggie)
+ - [zburchett](https://github.com/zburchett)
  - [uainejade](https://github.com/uainejade)
  - [TheAustinJones](https://github.com/TheAustinJones)
  - [asuits2](https://github.com/asuits2)
