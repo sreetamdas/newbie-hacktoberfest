@@ -55,3 +55,4 @@ an example:
  - [TylerPhillipsDank](https://github.com/TylerPhillipsDank)
  - [cfroggie](https://github.com/cfroggie)
  - [TheAustinJones](https://github.com/TheAustinJones)
+ - [asuits2](https://github.com/asuits2)
