@@ -67,3 +67,4 @@ an example:
  - [mosekwa](https://github.com/mosekwa/)
  - [jolenedunne](https://github.com/jolenedunne)
  - [rspdev](https://github.com/rspdev)
+ - [3fed](https://github.com/3fed)
