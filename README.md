@@ -70,3 +70,4 @@ an example:
  - [3fed](https://github.com/3fed)
  - [Corvo23](https://github.com/Corvo23)
  - [Attanno](https://github.com/Attanno)
+ - [fbernklau](https://github.com/fbernklau)
