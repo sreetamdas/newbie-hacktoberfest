@@ -75,3 +75,4 @@ an example:
  - [siddharth-gupta99](https://github.com/Siddharth-gupta99)
  - [siddharth-asusta(https://github.com/asusta)
  - [bahnburner](https://github.com/bahnburner)
+ - [s-bridges](https://github.com/s-bridges)
