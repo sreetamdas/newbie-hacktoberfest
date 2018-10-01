@@ -71,3 +71,4 @@ an example:
  - [Corvo23](https://github.com/Corvo23)
  - [Attanno](https://github.com/Attanno)
  - [fbernklau](https://github.com/fbernklau)
+ - [siddharth-gupta99](https://github.com/Siddharth-gupta99)
