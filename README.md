@@ -78,3 +78,4 @@ an example:
  - [s-bridges](https://github.com/s-bridges)
  - [Heckerman100](https://github.com/heckerman100)
  - [AyahRamahi](https://github.com/AyahRamahi)
+ - [cbbeard](https://github.com/cbbeard)
