@@ -21,16 +21,18 @@ Head over to [HacktoberFest](https://hacktoberfest.digitalocean.com/), sign up a
 ```
 
 an example:
-`- [sreetamdas](https://github.com/sreetamdas)`
+```
+- [sreetamdas](https://github.com/sreetamdas)
+```
 - Send a pull request to this repository
 - Star this repository
 - Wait for pull-request to be merged
-- Find more Open Source repos/ projects and start contributing!
+- Find more Open Source repos/projects and start contributing!
 
 ## How can I see my progress in Hacktoberfest?
 - Header over to [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 - Click on "Check Progress"
-- Or you can do https://hacktoberfest.digitalocean.com/stats/ + [GitHub Username]
+- Or you can go to https://hacktoberfest.digitalocean.com/stats/ + [GitHub Username]
 
 
 *Contributors :*
