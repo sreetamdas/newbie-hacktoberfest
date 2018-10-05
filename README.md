@@ -66,7 +66,6 @@ an example:
  - [threethirteen](https://github.com/threethirteen/)
  - [AshviniMaurya](https://github.com/ashvinikumar/)
  - [prashanthari](https://github.com/prashant8821/)
- - [prashanthari](https://github.com/prashant8821/)
  - [mosekwa](https://github.com/mosekwa/)
  - [jolenedunne](https://github.com/jolenedunne)
  - [rspdev](https://github.com/rspdev)
@@ -84,3 +83,4 @@ an example:
  - [guneetsk99](https://github.com/guneetsk99)
  - [nathias](https://github.com/nath1as) 
  - [Blueskyes](https://github.com/Blueskyes)
+ - [qToastii](https://github.com/qToatsii)
