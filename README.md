@@ -55,6 +55,7 @@ an example:
  - [wiardvanrij](https://github.com/wiardvanrij)
  - [JSANL](https://github.com/JSANL)
  - [CodenameLeon](https://github.com/CodenameLeon)
+ - [Tanmay Sighvi](https://github.com/tanmaysinghvi)
  - [TylerPhillipsDank](https://github.com/TylerPhillipsDank)
  - [cfroggie](https://github.com/cfroggie)
  - [zburchett](https://github.com/zburchett)
