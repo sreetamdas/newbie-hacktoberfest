@@ -87,4 +87,5 @@ an example:
  - [Blueskyes](https://github.com/Blueskyes)
  - [qToastii](https://github.com/qToatsii)
  - [stefanoschrs](https://github.com/stefanoschrs)
+ - [jdoneil](https://github.com/jdoneil)
 
