@@ -4,7 +4,7 @@ Hacktoberfest is a month-long celebration of open source software in partnership
 Taking first steps into Open Source at Digital Ocean's Hacktoberfest!
 
 ## What is this?
-This repository is meant to be a stepping stone for anyone and everyone who want to participate at [Digital Ocean's HacktoberFest](https://hacktoberfest.digitalocean.com/) and take their first steps into the (sometimes overwhelming) world of Open Source!
+This repository is meant to be a stepping stone for anyone and everyone who wants to participate at [Digital Ocean's HacktoberFest](https://hacktoberfest.digitalocean.com/) and take their first steps into the (sometimes overwhelming) world of Open Source!
 
 ## How can I find out how many pull requests I have made?
 A great tool to do this [here](https://rockytv.github.io/hacktoberfest/)
@@ -37,6 +37,7 @@ an example:
 
 *Contributors :*
 ---
+ - [gipsi](https://github.com/gipsi)
  - [Tck13](https://github.com/tck13)
  - [sreetamdas](https://github.com/sreetamdas)
  - [bradpeck](https://github.com/bradpeck)
