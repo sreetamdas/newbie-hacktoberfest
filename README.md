@@ -86,3 +86,5 @@ an example:
  - [nathias](https://github.com/nath1as) 
  - [Blueskyes](https://github.com/Blueskyes)
  - [qToastii](https://github.com/qToatsii)
+ - [stefanoschrs](https://github.com/stefanoschrs)
+
