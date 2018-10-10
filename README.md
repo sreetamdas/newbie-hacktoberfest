@@ -63,6 +63,7 @@ an example:
  - [uainejade](https://github.com/uainejade)
  - [TheAustinJones](https://github.com/TheAustinJones)
  - [asuits2](https://github.com/asuits2)
+ - [Kevin John](https://github.com/Kevv-J/)
  - [dhruvramani](https://github.com/dhruvramani/)
  - [kesiran](https://github.com/kesiran)
  - [threethirteen](https://github.com/threethirteen/)
