@@ -93,3 +93,4 @@ an example:
  - [Arkadeepta](https://github.com/porkii)
  - [NuclearGopher](https://github.com/NuclearGopher)
  - [Thelouras](https://github.com/Thelouras58)
+ - [jakeitaylor](https://github.com/jakeitaylor)
