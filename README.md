@@ -96,3 +96,4 @@ an example:
  - [homard](https://github.com/homard)
  - [gcstang](https://github.com/gcstang)
  - [monkfromearth](https://github.com/monkfromearth)
+ - [chojisan](https://github.com/chojisan)
