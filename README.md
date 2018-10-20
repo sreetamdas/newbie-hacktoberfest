@@ -93,6 +93,7 @@ an example:
  - [mind-as-well](https://github.com/mind-as-well)
  - [Arkadeepta](https://github.com/porkii)
  - [NuclearGopher](https://github.com/NuclearGopher)
+ - [Muhammed Khamis](https://github.com/MuhammedKhamis)
  - [Thelouras](https://github.com/Thelouras58)
  - [homard](https://github.com/homard)
  - [gcstang](https://github.com/gcstang)
