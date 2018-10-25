@@ -102,3 +102,4 @@ an example:
  - [janczer](https://github.com/janczer)
  - [huangjenny](https://github.com/huangjenny)
  - [ojasgulati](https://github.com/ojasgulati)
+ - [srajan96](https://github.com/srajan96)
