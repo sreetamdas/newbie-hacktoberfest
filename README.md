@@ -105,4 +105,5 @@ an example:
  - [srajan96](https://github.com/srajan96)
  - [misselliev](https://github.com/misselliev)
  - [bob-thomas](https://github.com/bob-thomas)
+ - [kennyhong](https://github.com/kennyhong)
  - [Otman404](https://github.com/Otman404/)
