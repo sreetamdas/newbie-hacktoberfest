@@ -106,5 +106,6 @@ an example:
  - [misselliev](https://github.com/misselliev)
  - [bob-thomas](https://github.com/bob-thomas)
  - [kennyhong](https://github.com/kennyhong)
+ - [whiplash7](https://github.com/whiplash7)
  - [Otman404](https://github.com/Otman404/)
  - [Roy](https://github.com/roysoup)
