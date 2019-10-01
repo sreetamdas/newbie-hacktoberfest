@@ -4,7 +4,7 @@ Hacktoberfest is a month-long celebration of open source software in partnership
 Taking first steps into Open Source at Digital Ocean's Hacktoberfest!
 
 ## What is this?
-This repository is meant to be a stepping stone for anyone and everyone who want to participate at [Digital Ocean's HacktoberFest](https://hacktoberfest.digitalocean.com/) and take their first steps into the (sometimes overwhelming) world of Open Source!
+This repository is meant to be a stepping stone for anyone and everyone who wants to participate at [Digital Ocean's HacktoberFest](https://hacktoberfest.digitalocean.com/) and take their first steps into the (sometimes overwhelming) world of Open Source!
 
 ## How can I find out how many pull requests I have made?
 A great tool to do this [here](https://rockytv.github.io/hacktoberfest/)
@@ -37,6 +37,7 @@ an example:
 
 *Contributors :*
 ---
+ - [gipsi](https://github.com/gipsi)
  - [Tck13](https://github.com/tck13)
  - [sreetamdas](https://github.com/sreetamdas)
  - [bradpeck](https://github.com/bradpeck)
@@ -55,17 +56,18 @@ an example:
  - [wiardvanrij](https://github.com/wiardvanrij)
  - [JSANL](https://github.com/JSANL)
  - [CodenameLeon](https://github.com/CodenameLeon)
+ - [Tanmay Sighvi](https://github.com/tanmaysinghvi)
  - [TylerPhillipsDank](https://github.com/TylerPhillipsDank)
  - [cfroggie](https://github.com/cfroggie)
  - [zburchett](https://github.com/zburchett)
  - [uainejade](https://github.com/uainejade)
  - [TheAustinJones](https://github.com/TheAustinJones)
  - [asuits2](https://github.com/asuits2)
+ - [Kevin John](https://github.com/Kevv-J/)
  - [dhruvramani](https://github.com/dhruvramani/)
  - [kesiran](https://github.com/kesiran)
  - [threethirteen](https://github.com/threethirteen/)
  - [AshviniMaurya](https://github.com/ashvinikumar/)
- - [prashanthari](https://github.com/prashant8821/)
  - [prashanthari](https://github.com/prashant8821/)
  - [mosekwa](https://github.com/mosekwa/)
  - [jolenedunne](https://github.com/jolenedunne)
@@ -82,3 +84,35 @@ an example:
  - [AyahRamahi](https://github.com/AyahRamahi)
  - [cbbeard](https://github.com/cbbeard)
  - [guneetsk99](https://github.com/guneetsk99)
+ - [nathias](https://github.com/nath1as)
+ - [Blueskyes](https://github.com/Blueskyes)
+ - [qToastii](https://github.com/qToatsii)
+ - [stefanoschrs](https://github.com/stefanoschrs)
+ - [jdoneil](https://github.com/jdoneil)
+ - [Amr Hendy](https://github.com/AmrHendy)
+ - [mind-as-well](https://github.com/mind-as-well)
+ - [Arkadeepta](https://github.com/porkii)
+ - [NuclearGopher](https://github.com/NuclearGopher)
+ - [Muhammed Khamis](https://github.com/MuhammedKhamis)
+ - [Thelouras](https://github.com/Thelouras58)
+ - [homard](https://github.com/homard)
+ - [gcstang](https://github.com/gcstang)
+ - [monkfromearth](https://github.com/monkfromearth)
+ - [chojisan](https://github.com/chojisan)
+ - [sreetamdas](https://github.com/sreetamdas)
+ - [janczer](https://github.com/janczer)
+ - [huangjenny](https://github.com/huangjenny)
+ - [ojasgulati](https://github.com/ojasgulati)
+ - [srajan96](https://github.com/srajan96)
+ - [misselliev](https://github.com/misselliev)
+ - [bob-thomas](https://github.com/bob-thomas)
+ - [kennyhong](https://github.com/kennyhong)
+ - [karanreddy](https://github.com/karanreddy77)
+ - [whiplash7](https://github.com/whiplash7)
+ - [Otman404](https://github.com/Otman404/)
+ - [Roy](https://github.com/roysoup)
+ - [Tolunay](https://github.com/tolunayozturk)
+ - [xyz-neory](https://github.com/xyz-neory)
+ - [whysogreen](https://github.com/whysogreen)
+ - [groussel42](https://github.com/groussel42)
+ - [shivam-51](https://github.com/shivam-51)
