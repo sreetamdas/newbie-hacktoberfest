@@ -115,5 +115,6 @@ an example:
  - [xyz-neory](https://github.com/xyz-neory)
  - [whysogreen](https://github.com/whysogreen)
  - [Moonstroke82](https://github.com/moonstroke82)
+ - [Wern Ancheta](https://github.com/anchetaWern)
  - [groussel42](https://github.com/groussel42)
  - [shivam-51](https://github.com/shivam-51)
