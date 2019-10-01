@@ -99,6 +99,7 @@ an example:
  - [gcstang](https://github.com/gcstang)
  - [monkfromearth](https://github.com/monkfromearth)
  - [chojisan](https://github.com/chojisan)
+ - [sreetamdas](https://github.com/sreetamdas)
  - [janczer](https://github.com/janczer)
  - [huangjenny](https://github.com/huangjenny)
  - [ojasgulati](https://github.com/ojasgulati)
@@ -113,3 +114,5 @@ an example:
  - [xyz-neory](https://github.com/xyz-neory)
  - [whysogreen](https://github.com/whysogreen)
  - [Wern Ancheta](https://github.com/anchetaWern)
+ - [groussel42](https://github.com/groussel42)
+ - [shivam-51](https://github.com/shivam-51)
