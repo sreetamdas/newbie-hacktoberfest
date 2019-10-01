@@ -99,6 +99,7 @@ an example:
  - [gcstang](https://github.com/gcstang)
  - [monkfromearth](https://github.com/monkfromearth)
  - [chojisan](https://github.com/chojisan)
+ - [sreetamdas](https://github.com/sreetamdas)
  - [janczer](https://github.com/janczer)
  - [huangjenny](https://github.com/huangjenny)
  - [ojasgulati](https://github.com/ojasgulati)
