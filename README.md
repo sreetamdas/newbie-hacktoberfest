@@ -121,6 +121,7 @@ an example:
  - [groussel42](https://github.com/groussel42)
  - [shivam-51](https://github.com/shivam-51)
  - [Hoang Nguyen](https://github.com/phuonghoang713)
+ - [Ananya Singh](https://github.com/ananya1304)
  - [KasperZutterman](https://github.com/KasperZutterman)
  - [leprecha1](https://github.com/leprecha1)
  - [peakercope](https://github.com/peakercope)
