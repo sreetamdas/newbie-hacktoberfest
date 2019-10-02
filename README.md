@@ -130,3 +130,5 @@ an example:
  - [leprecha1](https://github.com/leprecha1)
  - [peakercope](https://github.com/peakercope)
  - [arjunbangari](https://github.com/arjunbangari)
+ - [wulan](https://github.com/misspuff55)
+ - [Strydor1990](https://github.com/Strider1990)
