@@ -122,6 +122,7 @@ an example:
  - [groussel42](https://github.com/groussel42)
  - [shivam-51](https://github.com/shivam-51)
  - [Hoang Nguyen](https://github.com/phuonghoang713)
+ - [Lis Azevedo](https://github.com/lisazevedo)
  - [Aditya Singh](https://github.com/Aditya2603)
  - [thebanterage](https://github.com/thebanterage)
  - [Ananya Singh](https://github.com/ananya1304)
