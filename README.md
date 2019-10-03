@@ -229,6 +229,7 @@ an example:
  - [Carike](https://github.com/carike)
  - [Kleiser Sarifo](https://github.com/mksarifo)
  - [Shashi Jangra](https://github.com/shashijangra22)
+ - [Zaenal Akhmad Rifai](https://github.com/togatta)
 
  - [FAruk vega](https://github.com/farukx/)
  - [Lis Azevedo](https://github.com/lisazevedo)
