@@ -211,6 +211,7 @@ an example:
  - [srajan96](https://github.com/srajan96)
  - [misselliev](https://github.com/misselliev)
  - [bob-thomas](https://github.com/bob-thomas)
+ - [nataliepls](https://github.com/nataliepls)
  - [kennyhong](https://github.com/kennyhong)
  - [karanreddy](https://github.com/karanreddy77)
  - [whiplash7](https://github.com/whiplash7)
