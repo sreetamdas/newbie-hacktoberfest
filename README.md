@@ -122,6 +122,10 @@ an example:
  - [groussel42](https://github.com/groussel42)
  - [shivam-51](https://github.com/shivam-51)
  - [Hoang Nguyen](https://github.com/phuonghoang713)
+ - [Kleiser Sarifo](https://github.com/mksarifo)
+ - [Shashi Jangra](https://github.com/shashijangra22)
+
+ - [FAruk vega](https://github.com/farukx/)
  - [Lis Azevedo](https://github.com/lisazevedo)
  - [Aditya Singh](https://github.com/Aditya2603)
  - [thebanterage](https://github.com/thebanterage)
@@ -132,3 +136,4 @@ an example:
  - [wulan](https://github.com/misspuff55)
  - [Strydor1990](https://github.com/Strider1990)
  - [hieshkaushik28](https://github.com/hiteshkaushik28)
+ - [wilson](https://github.com/whilson03)
