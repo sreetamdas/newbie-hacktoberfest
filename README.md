@@ -37,6 +37,7 @@ an example:
 
 *Contributors :*
 ---
+ - [ilhamtaufiq](https://github.com/ilhamtaufiq)
  - [gipsi](https://github.com/gipsi)
  - [Tck13](https://github.com/tck13)
  - [sreetamdas](https://github.com/sreetamdas)
@@ -48,6 +49,7 @@ an example:
  - [jesuiscamille](https://github.com/jesuiscamille)
  - [JamesKingdom](https://github.com/JamesKingdom)
  - [TheTota](https://github.com/TheTota)
+ - [Ramesh Sah](https://github.com/rameshKrSah)
  - [Aditya Kabra](https://github.com/adi0602)
  - [Karamax](https://github.com/Karamax)
  - [Danielandro](https://github.com/Danielandro)
@@ -55,6 +57,7 @@ an example:
  - [karajrish](https://github.com/karajrish)
  - [wiardvanrij](https://github.com/wiardvanrij)
  - [JSANL](https://github.com/JSANL)
+ - [Mitarth Jain](https://github.com/mitarthjain)
  - [CodenameLeon](https://github.com/CodenameLeon)
  - [Tanmay Sighvi](https://github.com/tanmaysinghvi)
  - [TylerPhillipsDank](https://github.com/TylerPhillipsDank)
@@ -120,3 +123,12 @@ an example:
  - [shivam-51](https://github.com/shivam-51)
  - [Hoang Nguyen](https://github.com/phuonghoang713)
  - [FAruk vega](https://github.com/farukx/)
+ - [Lis Azevedo](https://github.com/lisazevedo)
+ - [Aditya Singh](https://github.com/Aditya2603)
+ - [thebanterage](https://github.com/thebanterage)
+ - [Ananya Singh](https://github.com/ananya1304)
+ - [KasperZutterman](https://github.com/KasperZutterman)
+ - [leprecha1](https://github.com/leprecha1)
+ - [peakercope](https://github.com/peakercope)
+ - [wulan](https://github.com/misspuff55)
+ - [Strydor1990](https://github.com/Strider1990)
